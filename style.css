@@ -1,0 +1,69 @@
+html {
+  background-color: hsl(30, 54%, 90%);
+  display: grid;
+  place-items: center;
+}
+
+.main-box {
+  width: 600px;
+  height: auto;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.pic {
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+.preparation {
+  background: hsl(330deg 53.26% 91.89%);
+  width: 500px;
+  margin: 0 auto;
+}
+.preparation h3 {
+  text-align: left;
+  margin-left: 20px;
+  color: hsl(332, 51%, 32%);
+}
+h1 {
+  font-family: "Outfit", serif;
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 700;
+}
+
+h2 {
+  color: hsl(14, 45%, 36%);
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+li {
+  text-align: left;
+  margin-left: 25px;
+  font-family: "Outfit", serif;
+  margin-bottom: 15px;
+}
+
+/* .optional{
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    padding-bottom: 20px;
+    
+} */
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  padding-left: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid hsl(30, 18%, 87%);
+  padding-right: 150px;
+}
